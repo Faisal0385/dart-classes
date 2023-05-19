@@ -1,4 +1,4 @@
-import 'package:ostad_flutter_batch_practice/8a.class_restaurant.dart';
+import 'package:ostad_flutter_batch_practice/Class/8a.class_restaurant.dart';
 
 void main(){
   Restaurant kfc = Restaurant(4588552);
